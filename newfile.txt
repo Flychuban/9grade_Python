@@ -1,0 +1,6 @@
+{'Hello': 2, 'Ivan': 3, 'dfg': 1, 'ewh': 1, 'foi': 1, 'foih': 1, 'hfhjrje': 1, 'hgwe': 1, 'hhi': 1, 'hjuy': 1, 'hrehjrejej': 1, 'hwhw': 1, 'hwhwjwjhr': 1, 'iewofh': 1, 'ih': 1, 'kdkdk': 1, 'kdkkdkd': 1, 'kls': 1, "let's": 1, 'nfnnf': 1, 'ohewf': 1, 'oiewhfewhif': 1, 'oifehweohewfh': 1, 'oifio': 1, 'oih': 1, 'oo': 1, 'poewqjroihewh': 1, 'tvb': 1, 'with': 1, 'work': 1, 'you': 1}
+
+Unsorted string:
+Hello Ivan let's work with you Ivan Hello Ivan kdkdk kdkkdkd oo kls dfg hjuy tvb nfnnf hfhjrje hgwe hwhw hwhwjwjhr hrehjrejej poewqjroihewh  oiewhfewhif iewofh ohewf oih hhi ewh oifehweohewfh oifio foih foi ih
+Sorted string: 
+Hello Hello Ivan Ivan Ivan dfg ewh foi foih hfhjrje hgwe hhi hjuy hrehjrejej hwhw hwhwjwjhr iewofh ih kdkdk kdkkdkd kls let's nfnnf ohewf oiewhfewhif oifehweohewfh oifio oih oo poewqjroihewh tvb with work you 

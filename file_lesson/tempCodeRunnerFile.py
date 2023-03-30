@@ -1,0 +1,1 @@
+result = rewrite_file(file_name="my_new_file", number_lines=3)
