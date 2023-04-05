@@ -19,20 +19,22 @@ class PhoneDiary:
     def __str__(self) -> str:
         diary_str = ""
         for person in self._phone_diary:
-            diary_str += f"{person._name} : {person._phone_number}" + '\n'
+            diary_str += f"{person._name} : {person._phone_number} : {person._sec_number} : {person._email} : {person._instagram_profile} : {person._facebook_profile}" + '\n'
         return diary_str
     
     def write_to_file(self, file_name):
         with open(file_name, 'w+') as file:
             file.write(self.__str__())
+        print("Successfully written to file!")
         
     def read_from_file(self, file_name):
         with open(file_name, 'r') as file:
             lines = file.readlines()
             lines = [line.strip() for line in lines]
             for line in lines:
-                name, phone_number = line.split(':')
-                contact = Contact(name, phone_number)
+                name, phone_number, sec_number, email, instagram_profile, facebook_profile = line.split(':')
+                contact = Contact(name, phone_number, sec_number, email, instagram_profile, facebook_profile)
                 self._phone_diary.append(contact)
+        print("Successfully read from file!")
                 
         

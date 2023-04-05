@@ -1,3 +1,5 @@
-Maria Pehlivanova:0999999999
-Pesho Ivanov:0666666666
-Katya Petrova:0505050505
+Maria Pehlivanova : 07777777 : 0456778964354 : maria@abv.bg : mimi : mariFace
+Katya Petrova : 0505050505 : 0656778964354 : katya@abv.bg : kati : kateFace
+Misho Polendakov : 0101010101 : 0888888888 : misho@gmail.com : misho : mishoFace
+Nikola Petrov : 0707070707 : 0456987123 : nikola@gmail.com : nikola : nikolaFace
+Vitorio Shotev : 0606060606 : 0456745464354 : vito@abv.bg : vito : vitoFace

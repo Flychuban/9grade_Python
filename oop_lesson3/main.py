@@ -2,9 +2,9 @@ from phone_diary import PhoneDiary
 from contact import Contact
 
 if __name__ == "__main__":
-    misho = Contact("Misho Polendakov", "0101010101")
-    nikola = Contact("Nikola Petrov", "0707070707")
-    vito = Contact("Vitorio Shotev", "0606060606")
+    misho = Contact("Misho Polendakov", "0101010101", "0888888888", "misho@gmail.com", "misho", "mishoFace")
+    nikola = Contact("Nikola Petrov", "0707070707", "0456987123", "nikola@gmail.com", "nikola", "nikolaFace")
+    vito = Contact("Vitorio Shotev", "0606060606", "0456745464354", "vito@abv.bg", "vito", "vitoFace")
     
     # maria = Contact("Maria Pehlivanova", "0999999999")
     # pesho = Contact("Pesho Ivanov", "0666666666")
